@@ -38,6 +38,7 @@
     "prettier": "^3.5.3",
     "pretty-quick": "^4.2.2",
     "simple-git-hooks": "^2.13.0",
+    "stylelint": "^16.20.0",
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.33.1",
     "vite": "^6.3.5"
